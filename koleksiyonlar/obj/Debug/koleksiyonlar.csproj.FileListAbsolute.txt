@@ -1,0 +1,8 @@
+C:\Users\ondre\AcunMedya_egitim\koleksiyonlar\koleksiyonlar\bin\Debug\koleksiyonlar.exe.config
+C:\Users\ondre\AcunMedya_egitim\koleksiyonlar\koleksiyonlar\bin\Debug\koleksiyonlar.exe
+C:\Users\ondre\AcunMedya_egitim\koleksiyonlar\koleksiyonlar\bin\Debug\koleksiyonlar.pdb
+C:\Users\ondre\AcunMedya_egitim\koleksiyonlar\koleksiyonlar\obj\Debug\koleksiyonlar.csproj.AssemblyReference.cache
+C:\Users\ondre\AcunMedya_egitim\koleksiyonlar\koleksiyonlar\obj\Debug\koleksiyonlar.csproj.SuggestedBindingRedirects.cache
+C:\Users\ondre\AcunMedya_egitim\koleksiyonlar\koleksiyonlar\obj\Debug\koleksiyonlar.csproj.CoreCompileInputs.cache
+C:\Users\ondre\AcunMedya_egitim\koleksiyonlar\koleksiyonlar\obj\Debug\koleksiyonlar.exe
+C:\Users\ondre\AcunMedya_egitim\koleksiyonlar\koleksiyonlar\obj\Debug\koleksiyonlar.pdb
